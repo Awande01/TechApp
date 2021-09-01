@@ -1,9 +1,7 @@
 package test;
-
 import com.ikhokha.techcheck.matchers.OccurrenceMatcher;
 import org.junit.Before;
 import org.junit.Test;
-
 import static junit.framework.TestCase.assertFalse;
 import static junit.framework.TestCase.assertNull;
 import static org.junit.Assert.assertEquals;

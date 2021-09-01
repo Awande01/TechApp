@@ -1,8 +1,6 @@
 package test;
-
 import com.ikhokha.techcheck.matchers.ContainsMatcher;
 import org.junit.Test;
-
 import static junit.framework.TestCase.assertFalse;
 import static junit.framework.TestCase.assertNull;
 import static org.junit.Assert.assertEquals;
